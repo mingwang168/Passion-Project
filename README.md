@@ -40,4 +40,5 @@
   * Uploaded word list and learning process to the server
   * Completion calendar
 ## Entity Relationship Diagram (ERD)
+![](https://github.com/mingwang168/Passion-Project/raw/master/PassionProject.JPG) 
 ## Prototype
