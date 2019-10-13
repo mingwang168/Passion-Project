@@ -42,4 +42,8 @@
 ## Entity Relationship Diagram (ERD)
 ![](https://github.com/mingwang168/Passion-Project/raw/master/PassionProject.JPG) 
 ## Prototype
-![](https://github.com/mingwang168/Passion-Project/raw/master/1-Screen.png) 
+![](https://github.com/mingwang168/Passion-Project/raw/master/1-Screen.jpg) 
+![](https://github.com/mingwang168/Passion-Project/raw/master/2-Screen.jpg) 
+![](https://github.com/mingwang168/Passion-Project/raw/master/3-Screen.jpg) 
+![](https://github.com/mingwang168/Passion-Project/raw/master/4-Screen.jpg) 
+![](https://github.com/mingwang168/Passion-Project/raw/master/5-Screen.jpg) 
