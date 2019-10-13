@@ -42,3 +42,4 @@
 ## Entity Relationship Diagram (ERD)
 ![](https://github.com/mingwang168/Passion-Project/raw/master/PassionProject.JPG) 
 ## Prototype
+![](https://github.com/mingwang168/Passion-Project/raw/master/1-Screen.png) 
