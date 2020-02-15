@@ -1,4 +1,4 @@
-# Passion-Project
+﻿# Passion-Project
 ## application idea
 * Provide a tool for Chinese people to memorize English words，
 * According to ebbinghaus forgetting curve, the review time and frequency of each word should be arranged intelligently.
@@ -40,7 +40,7 @@
   * Uploaded word list and learning process to the server
   * Completion calendar
 ## Entity Relationship Diagram (ERD)
-![](https://github.com/mingwang168/Passion-Project/raw/master/PassionProject.JPG) 
+![](https://github.com/mingwang168/Passion-Project/raw/master/PassionProject2.JPG) 
 ## Prototype
 ![](https://github.com/mingwang168/Passion-Project/raw/master/1-Screen.jpg) 
 ![](https://github.com/mingwang168/Passion-Project/raw/master/2-Screen.jpg) 
