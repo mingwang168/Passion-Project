@@ -4,7 +4,7 @@
 * According to ebbinghaus forgetting curve, the review time and frequency of each word should be arranged intelligently.
 * Users can customize the vocabulary list
 * Customize the number of words you learn each day
-##Requirements
+## Requirements
 * Functional
   * Customize learning plan
   * Customize word list
