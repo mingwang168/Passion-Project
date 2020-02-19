@@ -28,7 +28,7 @@
   * Easy to use
   * Good performance
   * Simple and beautiful interface
-##feature list:
+## feature list:
 * Must Have:
   * Customize learning plan
   * Customize word list
