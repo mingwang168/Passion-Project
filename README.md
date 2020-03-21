@@ -36,6 +36,11 @@
   * Quizzes
   * Uploaded word list and learning process to the server
   * Completion calendar
+## Technologies:
+* React.js as the front-end
+* .net core as the back-end
+* AWS Cognito
+* SQLite as the database
 ## Entity Relationship Diagram (ERD)
 ![](https://github.com/mingwang168/Passion-Project/raw/master/PassionProject2.JPG) 
 ## Prototype
