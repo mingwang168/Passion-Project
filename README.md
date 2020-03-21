@@ -15,11 +15,8 @@
   * Review old words in the process of learning new words
   * Arrange the review of the old words according to the memory of the old words
   * Review the old words according to the Ebbinghaus forgetting curve
-  * can choose to study new words alone, review old words alone or learn plus review three modes
   * Word lists and learning processes can be uploaded to the server
-  * Provide multiple choice quizzes to test learning result
   * Show how many new words did you learn; how many old words did your review and how long did you study each time
-  * Show Completion calendar
 * non-functional
   * It can run on computer, tablet, mobile phone and other screen sizes
   * Windows, IOS and Android
