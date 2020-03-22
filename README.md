@@ -5,6 +5,8 @@ https://github.com/mingwang168/PassionProjectAPI.git
 https://github.com/mingwang168/PassionProjectClient.git
 ## presentation video link
 https://youtu.be/4wjyooYfZtk
+## the App website
+https://competent-shannon-65a9ad.netlify.com/
 ## application idea
 * Provide a tool for Chinese people to memorize English words，
 * According to ebbinghaus forgetting curve, the review time and frequency of each word should be arranged intelligently.
