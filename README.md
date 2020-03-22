@@ -1,4 +1,4 @@
-﻿# Passion-Project
+﻿# Passion-Project (Memorize New Words)
 ## repository of API
 https://github.com/mingwang168/PassionProjectAPI.git
 ## repository of client-end
