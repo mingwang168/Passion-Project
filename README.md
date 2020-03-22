@@ -4,7 +4,7 @@ https://github.com/mingwang168/PassionProjectAPI.git
 ## repository of client-end
 https://github.com/mingwang168/PassionProjectClient.git
 ## presentation video link
-https://www.youtube.com/watch?v=4wjyooYfZtk&feature=youtu.be
+https://youtu.be/4wjyooYfZtk
 ## application idea
 * Provide a tool for Chinese people to memorize English words，
 * According to ebbinghaus forgetting curve, the review time and frequency of each word should be arranged intelligently.
