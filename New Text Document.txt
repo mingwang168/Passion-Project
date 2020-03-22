@@ -30,3 +30,97 @@
 任务:任务ID,日期,开始时间,结束时间,计划ID,学数量,复习数量
 任务词表:任务词单ID,词ID,任务ID,词任务状态,词类型(新词,复习词)
 
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using MemorizeWordsAPI.Services;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+
+namespace MemorizeWordsAPI.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class LearningScheduleController : ControllerBase
+    {
+        private readonly MWContext _context;
+
+        public LearningScheduleController(MWContext context)
+        {
+            _context = context;
+        }
+
+        // GetAll() is automatically recognized as
+        // http://localhost:<port #>/api/todo
+        [HttpGet]
+        public IEnumerable<LearningSchedule> GetAll()
+        {
+            return _context.LearningSchedules.ToList();
+        }
+
+        // GetById() is automatically recognized as
+        // http://localhost:<port #>/api/todo/{id}
+
+        // For example:
+        // http://localhost:<port #>/api/todo/1
+
+        [HttpGet("{id}", Name = "GetLearningSchedule")]
+        public IActionResult GetById(long id)
+        {
+            var item = _context.LearningSchedules.FirstOrDefault(t => t.ScheduleID == id);
+            if (item == null)
+            {
+                return NotFound();
+            }
+            return new ObjectResult(item);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutLearningSchedule(int id, LearningSchedule @learningSchedule)
+        {
+            if (id != @learningSchedule.ScheduleID)
+            {
+                return BadRequest();
+            }
+
+            _context.Entry(@learningSchedule).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!LearningScheduleExists(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return NoContent();
+        }
+
+        private bool LearningScheduleExists(int id)
+        {
+            return _context.LearningSchedules.Any(e => e.ScheduleID == id);
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
