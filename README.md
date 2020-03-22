@@ -57,3 +57,11 @@ https://youtu.be/4wjyooYfZtk
 ![](https://github.com/mingwang168/Passion-Project/raw/master/5-Screen.jpg) 
 ## manual
 ![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_1.Jpeg)
+![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_2.Jpeg)
+![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_3.Jpeg)
+![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_4.Jpeg)
+![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_5.Jpeg)
+![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_6.Jpeg)
+![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_7.Jpeg)
+![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_8.Jpeg)
+![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_9.Jpeg)
