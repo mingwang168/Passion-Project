@@ -55,3 +55,4 @@ https://youtu.be/4wjyooYfZtk
 ![](https://github.com/mingwang168/Passion-Project/raw/master/3-Screen.jpg) 
 ![](https://github.com/mingwang168/Passion-Project/raw/master/4-Screen.jpg) 
 ![](https://github.com/mingwang168/Passion-Project/raw/master/5-Screen.jpg) 
+## manual
