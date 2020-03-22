@@ -56,3 +56,4 @@ https://youtu.be/4wjyooYfZtk
 ![](https://github.com/mingwang168/Passion-Project/raw/master/4-Screen.jpg) 
 ![](https://github.com/mingwang168/Passion-Project/raw/master/5-Screen.jpg) 
 ## manual
+![](https://github.com/mingwang168/Passion-Project/raw/master/032214012567_0NewMicrosoftWordDocument_1.Jpeg)
