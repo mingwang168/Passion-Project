@@ -6,7 +6,7 @@ https://github.com/mingwang168/PassionProjectClient.git
 ## presentation video link
 https://youtu.be/4wjyooYfZtk
 ## the App website
-https://wonderful-kowalevski-addb39.netlify.com/
+https://vibrant-shockley-a8e777.netlify.app/
 ## application idea
 * Provide a tool for Chinese people to memorize English words，
 * According to ebbinghaus forgetting curve, the review time and frequency of each word should be arranged intelligently.
